@@ -1,0 +1,5 @@
+# build
+g++ wassup.cpp -o wassup.out
+
+# run
+./wassup.out
